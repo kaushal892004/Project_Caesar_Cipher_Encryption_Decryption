@@ -1,0 +1,54 @@
+body {
+    font-family: "Lucida Console", Courier, monospace;
+    background-image: url('/bkgimg.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+h1 {
+    font-family: "Lucida Console", Courier, monospace;
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+textarea, input, button {
+    margin: 10px;
+    padding: 8px;
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#results {
+    
+    margin-top: 20px;
+    color: #333;
+}
+
+h2 {
+    font-family: "Lucida Console", Courier, monospace;
+    color: #007bff; 
+}
