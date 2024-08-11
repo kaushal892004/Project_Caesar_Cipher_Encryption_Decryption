@@ -48,7 +48,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 🙌 Support
 
-If you like this project, please consider giving it a ⭐ on GitHub and sharing it with your friends. You can also follow me on [GitHub](https://github.com/yourusername) for more projects.
+If you like this project, please consider giving it a ⭐ on GitHub and sharing it with your friends. You can also follow me on [GitHub](https://github.com/kaushal892004) for more projects.
 
 
 ## 📢 Acknowledgments
